@@ -57,7 +57,7 @@ const Hero = () => {
             <Button
               variant="outline"
               size="lg"
-              className="border-white/30 text-white hover:bg-white/10 text-lg px-8 py-6"
+              className="border-white/30  hover:bg-white/10 text-lg px-8 py-6"
             >
               <Play className="mr-2 h-5 w-5" />
               Watch Demo
@@ -65,7 +65,7 @@ const Hero = () => {
           </div>
 
           {/* Stats */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16">
+          {/* <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16">
             <div className="text-center">
               <div className="text-4xl font-bold text-white mb-2">10,000+</div>
               <div className="text-white/80">Active Stores</div>
@@ -78,7 +78,7 @@ const Hero = () => {
               <div className="text-4xl font-bold text-white mb-2">99.9%</div>
               <div className="text-white/80">Uptime</div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

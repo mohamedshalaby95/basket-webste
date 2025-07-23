@@ -40,7 +40,7 @@ const Header = () => {
 
           {/* Desktop CTA */}
           <div className="hidden md:flex items-center space-x-4">
-            <Button variant="outline">Log In</Button>
+            {/* <Button variant="outline">Log In</Button> */}
             <Button className="bg-gradient-primary hover:shadow-glow transition-all duration-300">
               Start Free Trial
             </Button>
@@ -73,9 +73,9 @@ const Header = () => {
                 </a>
               ))}
               <div className="pt-4 space-y-2">
-                <Button variant="outline" className="w-full">
+                {/* <Button variant="outline" className="w-full">
                   Log In
-                </Button>
+                </Button> */}
                 <Button className="w-full bg-gradient-primary hover:shadow-glow transition-all duration-300">
                   Start Free Trial
                 </Button>
