@@ -6,64 +6,62 @@ const Pricing = () => {
   const plans = [
     {
       name: "Starter",
-      price: "$29",
+      price: "600 EGP",
       period: "/month",
       description: "Perfect for new entrepreneurs and small businesses",
       features: [
         "Up to 100 products",
-        "Basic storefront themes",
+        "Subdomain",
+        "Basic themes",
         "Payment processing",
         "Order management",
-        "Email support",
         "Mobile responsive",
         "SSL certificate",
-        "Basic analytics"
+        "Basic analytics",
+        "Basic SEO optimization",
       ],
       popular: false,
-      cta: "Start Free Trial"
+      cta: "Start Free Trial",
     },
     {
       name: "Professional",
-      price: "$79",
+      price: "850 EGP",
       period: "/month",
       description: "Ideal for growing businesses and established stores",
       features: [
         "Up to 1,000 products",
-        "Premium themes & customization",
-        "Advanced payment options",
+        "Custom domain",
+        "Basic themes",
+        "Payment processing",
         "Inventory management",
         "Priority support",
-        "SEO optimization tools",
+        "Professional SEO optimization",
         "Advanced analytics",
-        "Marketing automation",
-        "Multi-channel selling",
-        "Custom domain"
       ],
       popular: true,
-      cta: "Start Free Trial"
+      cta: "Start Free Trial",
     },
     {
       name: "Enterprise",
-      price: "$199",
+      price: "1200 EGP",
       period: "/month",
       description: "For large businesses and high-volume stores",
       features: [
         "Unlimited products",
         "Custom design & development",
-        "Enterprise payment solutions",
+        "Payment processing",
         "Advanced inventory & warehouse",
-        "Dedicated account manager",
         "API access & integrations",
         "Advanced reporting suite",
-        "B2B functionality",
-        "Multi-store management",
         "Custom integrations",
-        "White-label options",
-        "99.99% uptime SLA"
+        "immediately support",
+        "Professional SEO optimization",
+        "Advanced analytics",
+        "Marketing automation",
       ],
       popular: false,
-      cta: "Contact Sales"
-    }
+      cta: "Contact Sales",
+    },
   ];
 
   return (

@@ -142,15 +142,14 @@ const Blogs = () => {
             Stay Updated with E-commerce Insights
           </h3>
           <p className="text-xl text-secondary-foreground/80 mb-8 max-w-2xl mx-auto">
-            Get the latest tips, trends, and strategies delivered to your inbox. 
-            Join 50,000+ entrepreneurs who trust our insights.
+            Get the latest tips, trends, and strategies delivered to your inbox.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 max-w-md mx-auto">
             <div className="flex-1 w-full">
               <input 
                 type="email" 
                 placeholder="Enter your email"
-                className="w-full px-4 py-3 rounded-lg border border-border/50 bg-background/50 text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary"
+                className="w-full px-4 py-3 rounded-lg border placeholder:text-white border-border/50 bg-background/50 text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary"
               />
             </div>
             <Button className="bg-gradient-primary hover:shadow-glow transition-all duration-300 px-8">

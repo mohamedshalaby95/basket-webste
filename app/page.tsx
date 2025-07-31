@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import About from "./components/About";
@@ -7,6 +7,7 @@ import Blogs from "./components/Blogs";
 import Pricing from "./components/Pricing";
 import FAQ from "./components/FAQ";
 import { Footer } from "react-day-picker";
+
 
 export default function Home() {
   return (
