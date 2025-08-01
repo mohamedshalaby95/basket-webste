@@ -1,0 +1,299 @@
+{
+  "Header": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "blogs": "Blogs",
+    "pricing": "Pricing",
+    "faqs": "FAQs",
+    "startFreeTrial": "Start Free Trial"
+  },
+  "Hero": {
+    "headlinePart1": "Launch Your",
+    "headlineHighlight": "Dream Store",
+    "headlinePart2": "in Minutes",
+    "subheading": "Transform your business ideas into thriving online stores with our powerful, easy-to-use e-commerce platform. No coding required.",
+    "startBuilding": "Start Building Now",
+    "watchDemo": "Watch Demo"
+  },
+  "About": {
+    "heading": "About StoreBuilder",
+    "intro": "We're passionate about empowering entrepreneurs to turn their ideas into thriving online businesses. Founded by e-commerce veterans, we understand the challenges of building an online store.",
+
+    "mission": {
+      "title": "Our Mission",
+      "description": "To democratize e-commerce by providing powerful, user-friendly tools that enable anyone to build and grow a successful online business."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "A world where every entrepreneur has access to professional-grade e-commerce technology, regardless of their technical background or budget."
+    },
+    "community": {
+      "title": "Our Community",
+      "description": "We're building a supportive ecosystem of store owners, sharing knowledge, strategies, and celebrating each other's successes."
+    },
+    "commitment": {
+      "title": "Our Commitment",
+      "description": "We're committed to continuous innovation, exceptional support, and helping our customers achieve their business goals."
+    },
+
+    "ready": "Ready to Grow With You",
+    "support": "We're a new platform built to empower businesses of all sizes. Whether you're launching your first store or scaling up, we’re here to support your journey—every step of the way.",
+
+    "global": {
+      "title": "Global",
+      "subtitle": "Serving Businesses Worldwide"
+    },
+    "custom": {
+      "title": "Custom",
+      "subtitle": "Tailored Store Designs"
+    },
+    "supportBlock": {
+      "title": "Support",
+      "subtitle": "Here When You Need Us"
+    }
+  },
+  "Services": {
+    "heading": "Everything You Need to Succeed",
+    "intro": "From store creation to customer acquisition, we provide all the tools and services you need to build, launch, and scale your e-commerce business.",
+
+    "storeSetup": {
+      "title": "Complete Store Setup",
+      "description": "Ready-to-use templates, product catalogs, and inventory management systems to get you started instantly."
+    },
+    "customDesign": {
+      "title": "Custom Design",
+      "description": "Easily create a store that matches your brand with customizable layouts, professional, and mobile-friendly themes."
+    },
+    "payment": {
+      "title": "Payment Processing",
+      "description": "Secure payment gateways supporting all major credit cards, PayPal, Apple Pay, and local payment methods."
+    },
+    "analytics": {
+      "title": "Analytics & Insights",
+      "description": "Real-time sales tracking, customer behavior analysis, and detailed performance reports to grow your business."
+    },
+    "salesReports": {
+      "title": "Sales Reports",
+      "description": "Get clear, actionable reports on sales performance to track revenue and make informed business decisions."
+    },
+    "orderManagement": {
+      "title": "Order Management",
+      "description": "Easily manage orders from one place—view, update, fulfill, and track orders in real time."
+    },
+    "telegram": {
+      "title": "Telegram Order Notifications",
+      "description": "Instant Telegram notifications for every new order, so you never miss a sale."
+    },
+    "mobile": {
+      "title": "Mobile Optimization",
+      "description": "Fully responsive designs that look perfect on all devices, with mobile-first shopping experiences."
+    },
+    "security": {
+      "title": "Security & Compliance",
+      "description": "SSL certificates, PCI compliance, GDPR ready, and enterprise-grade security for customer data protection."
+    },
+    "shipping": {
+      "title": "Shipping Integration",
+      "description": "Automated shipping calculations, label printing, tracking integration with major carriers worldwide."
+    },
+    "marketing": {
+      "title": "Marketing Tools",
+      "description": "Email campaigns, social media integration, SEO optimization, and customer retention tools built-in."
+    },
+    "multiLang": {
+      "title": "Multi-Language Support",
+      "description": "Reach a global audience by offering your store in multiple languages. Provide a seamless shopping experience for customers in their native language."
+    },
+
+    "cta": {
+      "title": "Ready to Transform Your Business?",
+      "description": "Join thousands of entrepreneurs who have built successful online stores with our platform. Your success story starts today.",
+      "perk1": "15-day Free",
+      "perk2": "24/7 expert support"
+    }
+  },
+  "Blogs": {
+    "heading": "E-commerce Insights & Tips",
+    "description": "Stay ahead of the curve with expert insights, proven strategies, and actionable tips to grow your online business.",
+    "readMore": "Read More",
+    "categories": {
+      "all": "All",
+      "trends": "Trends",
+      "optimization": "Optimization",
+      "seo": "SEO",
+      "marketing": "Marketing",
+      "mobile": "Mobile",
+      "caseStudy": "Case Study"
+    },
+    "post1": {
+      "title": "10 Essential E-commerce Trends to Watch in 2024",
+      "excerpt": "Discover the latest trends shaping online retail, from AI-powered personalization to sustainable shopping experiences.",
+      "category": "Trends"
+    },
+    "post2": {
+      "title": "How to Optimize Your Product Pages for Maximum Conversions",
+      "excerpt": "Learn proven strategies to turn browsers into buyers with compelling product descriptions, images, and social proof.",
+      "category": "Optimization"
+    },
+    "post3": {
+      "title": "The Complete Guide to E-commerce SEO",
+      "excerpt": "Master the art of search engine optimization for online stores and drive organic traffic to your products.",
+      "category": "SEO"
+    },
+    "post4": {
+      "title": "Building Customer Loyalty in the Digital Age",
+      "excerpt": "Discover effective strategies to create lasting relationships with your customers and increase lifetime value.",
+      "category": "Marketing"
+    },
+    "post5": {
+      "title": "Mobile Commerce: Designing for the Smartphone Generation",
+      "excerpt": "Learn how to create seamless mobile shopping experiences that drive sales and customer satisfaction.",
+      "category": "Mobile"
+    },
+    "post6": {
+      "title": "From Zero to First Sale: A Beginner's Journey",
+      "excerpt": "Follow along as we document a complete beginner's journey from store setup to their first successful sale.",
+      "category": "Case Study"
+    },
+    "newsletter": {
+      "title": "Stay Updated with E-commerce Insights",
+      "description": "Get the latest tips, trends, and strategies delivered to your inbox.",
+      "placeholder": "Enter your email",
+      "cta": "Subscribe"
+    }
+  },
+  "Pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the perfect plan for your business. All plans include a 14-day free trial and 30-day money-back guarantee.",
+    "mostPopular": "Most Popular",
+    "plans": [
+      {
+        "name": "Starter",
+        "price": "600 EGP",
+        "period": "/month",
+        "description": "Perfect for new entrepreneurs and small businesses",
+        "features": [
+          "Up to 100 products",
+          "Subdomain",
+          "Basic themes",
+          "Payment processing",
+          "Order management",
+          "Mobile responsive",
+          "SSL certificate",
+          "Basic analytics",
+          "Basic SEO optimization"
+        ],
+        "cta": "Start Free Trial"
+      },
+      {
+        "name": "Professional",
+        "price": "850 EGP",
+        "period": "/month",
+        "description": "Ideal for growing businesses and established stores",
+        "features": [
+          "Up to 1,000 products",
+          "Custom domain",
+          "Basic themes",
+          "Payment processing",
+          "Inventory management",
+          "Priority support",
+          "Professional SEO optimization",
+          "Advanced analytics"
+        ],
+        "cta": "Start Free Trial"
+      },
+      {
+        "name": "Enterprise",
+        "price": "1200 EGP",
+        "period": "/month",
+        "description": "For large businesses and high-volume stores",
+        "features": [
+          "Unlimited products",
+          "Custom design & development",
+          "Payment processing",
+          "Advanced inventory & warehouse",
+          "API access & integrations",
+          "Advanced reporting suite",
+          "Custom integrations",
+          "immediately support",
+          "Professional SEO optimization",
+          "Advanced analytics",
+          "Marketing automation"
+        ],
+        "cta": "Contact Sales"
+      }
+    ],
+    "allPlansInclude": "All Plans Include",
+    "trial": {
+      "title": "14-Day Free Trial",
+      "desc": "Test all features risk-free"
+    },
+    "noSetup": {
+      "title": "No Setup Fees",
+      "desc": "Get started immediately"
+    },
+    "cancel": {
+      "title": "Cancel Anytime",
+      "desc": "No long-term commitments"
+    }
+  },
+  "FAQ": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Got questions? We've got answers. Here are the most common questions about building and running your online store with StoreBuilder.",
+    "stillHaveQuestions": "Still Have Questions?",
+    "stillHaveQuestionsDesc": "Our support team is here to help. Get in touch and we'll answer any questions about building your online store.",
+    "contactSupport": "Contact Support",
+    "scheduleDemo": "Schedule Demo",
+    "faqs": [
+      {
+        "question": "How quickly can I set up my online store?",
+        "answer": "You can have a fully functional online store up and running in less than 30 minutes. Our intuitive setup wizard guides you through product uploads, payment configuration, and store customization. Most users complete their basic setup during their first session."
+      },
+      {
+        "question": "Do I need technical skills to use StoreBuilder?",
+        "answer": "Not at all! StoreBuilder is designed for entrepreneurs of all technical backgrounds. Our drag-and-drop interface, pre-built templates, and guided setup process make it easy for anyone to create a professional online store without coding knowledge."
+      },
+      {
+        "question": "What payment methods are supported?",
+        "answer": "We support all major payment processors including Stripe, PayPal, Square, and over 100 local payment gateways worldwide. Your customers can pay with credit cards, debit cards, digital wallets (Apple Pay, Google Pay), bank transfers, and buy-now-pay-later options."
+      },
+      {
+        "question": "Can I use my own domain name?",
+        "answer": "Yes! All paid plans include custom domain support. You can either connect an existing domain or purchase a new one through our platform. We'll handle all the technical setup including SSL certificates and DNS configuration."
+      },
+      {
+        "question": "Is there a transaction fee?",
+        "answer": "We don't charge transaction fees on any of our plans. You only pay the standard processing fees from your chosen payment provider (typically 2.9% + 30¢ per transaction). This means more money stays in your pocket."
+      },
+      {
+        "question": "How does the 14-day free trial work?",
+        "answer": "Your free trial includes access to all features of your chosen plan. No credit card required to start. You can build your store, add products, and test everything. If you're not satisfied, simply don't upgrade and your trial will end automatically."
+      },
+      {
+        "question": "Can I change my plan later?",
+        "answer": "Absolutely! You can upgrade or downgrade your plan at any time from your dashboard. Changes take effect immediately, and we'll pro-rate any billing differences. There are no penalties for changing plans."
+      },
+      {
+        "question": "What kind of support do you provide?",
+        "answer": "We offer 24/7 support via live chat and email. Starter plan users get email support with response within 24 hours. Professional and Enterprise users get priority support with faster response times. Enterprise customers also get a dedicated account manager."
+      },
+      {
+        "question": "Can I sell digital products?",
+        "answer": "Yes! Our platform supports both physical and digital product sales. For digital products, we provide secure download links, license key generation, and automatic delivery upon payment. You can sell ebooks, software, courses, music, and more."
+      },
+      {
+        "question": "Is my store mobile-friendly?",
+        "answer": "All our themes are fully responsive and mobile-optimized. Your store will look great and function perfectly on smartphones, tablets, and desktops. We also provide mobile-specific features like one-click checkout and mobile payment options."
+      },
+      {
+        "question": "How secure is the platform?",
+        "answer": "Security is our top priority. We provide SSL certificates, PCI DSS compliance, regular security audits, DDoS protection, and encrypted data storage. Customer payment information is never stored on our servers - it goes directly to secure payment processors."
+      },
+      {
+        "question": "Can I integrate with other tools?",
+        "answer": "Yes! We offer integrations with popular tools including Google Analytics, Facebook Pixel, Mailchimp, Klaviyo, QuickBooks, inventory management systems, and hundreds of apps through our marketplace. Enterprise plans include custom API access."
+      }
+    ]
+  }
+}
